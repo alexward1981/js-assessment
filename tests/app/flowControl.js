@@ -12,9 +12,9 @@ describe('flow control', function() {
     }
 
     expect(flowControlAnswers.fizzBuzz()).not.to.be.ok;
-    expect(flowControlAnswers.fizzBuzz('foo')).not.to.be.ok;
     expect(flowControlAnswers.fizzBuzz(2)).to.eql(2);
     expect(flowControlAnswers.fizzBuzz(101)).to.eql(101);
+    expect(flowControlAnswers.fizzBuzz('foo')).not.to.be.ok;
 
     expect(flowControlAnswers.fizzBuzz(3)).to.eql('fizz');
     expect(flowControlAnswers.fizzBuzz(6)).to.eql('fizz');
