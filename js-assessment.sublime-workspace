@@ -1,0 +1,603 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ta",
+				"table"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"box-",
+				"box-sizing"
+			],
+			[
+				"tran",
+				"transparent"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"button",
+				"button-color-jade"
+			],
+			[
+				"color",
+				"color-stone"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"margint",
+				"margin-right"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"dis",
+				"display-type"
+			],
+			[
+				"d",
+				"display-type"
+			],
+			[
+				"cl",
+				"cycle"
+			],
+			[
+				"border",
+				"border-box"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"text",
+				"text-indent"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"bod",
+				"bodyTag"
+			],
+			[
+				"Cla",
+				"classArray"
+			],
+			[
+				"clas",
+				"classArray"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"backg",
+				"background-size"
+			],
+			[
+				"table",
+				"table-row"
+			],
+			[
+				"backgroun",
+				"background-position"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "tests/app/functions.js",
+			"settings":
+			{
+				"buffer_size": 4966,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/functions.js",
+			"settings":
+			{
+				"buffer_size": 496,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 213.0,
+		"last_filter": "sshtm",
+		"selected_items":
+		[
+			[
+				"sshtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"case",
+				"Convert Case: Swap Case"
+			],
+			[
+				"hi",
+				"HighlightWords: Unhighlight Words"
+			],
+			[
+				"high",
+				"HighlightWords: Highlight Words"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"sscss",
+				"Set Syntax: CSS"
+			],
+			[
+				"ss",
+				"Set Syntax: Stylus"
+			],
+			[
+				"ssh",
+				"Set Syntax: HTML"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"snipp",
+				"Snippet: html"
+			],
+			[
+				"sss",
+				"Set Syntax: Stylus"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ss mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"to tab",
+				"View: Toggle Tabs"
+			],
+			[
+				"ssht",
+				"Set Syntax: HTML"
+			],
+			[
+				"sssty",
+				"Set Syntax: Stylus"
+			],
+			[
+				"ss css",
+				"Set Syntax: CSS"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"ss html",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 408.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/dev/js-assessment",
+		"/C/dev/js-assessment/app",
+		"/C/dev/js-assessment/tests",
+		"/C/dev/js-assessment/tests/app"
+	],
+	"file_history":
+	[
+		"/C/work/gap-portals/src/front-end/app/html/views/lot.html",
+		"/C/work/gap-portals/src/front-end/app/html/partials/watchlistToggle.html",
+		"/C/work/gap-portals/src/front-end/app/stylus/modules/lot-list-results.styl",
+		"/C/work/gap-portals/src/front-end/app/stylus/includes/_fontello-codes.styl",
+		"/C/work/gap-portals/src/front-end/app/stylus/modules/singleLotSummary.styl",
+		"/C/work/gap-portals/src/front-end/app/stylus/includes/_buttons.styl",
+		"/C/work/gap-portals/src/front-end/app/stylus/modules/lotDetails.styl",
+		"/C/work/gap-portals/src/front-end/app/stylus/modules/search.styl",
+		"/C/work/gap-portals/src/front-end/app/stylus/includes/_layout.styl",
+		"/C/work/gap-portals/src/front-end/app/stylus/includes/_primary-navigation.styl",
+		"/C/Users/alexward/AppData/Local/Temp/Temp1_fontello-26a48e07.zip/fontello-26a48e07/css/fontello-codes.css",
+		"/C/Users/alexward/AppData/Local/Temp/Temp1_fontello-26a48e07.zip/fontello-26a48e07/css/fontello-embedded.css",
+		"/C/work/gap-portals/src/front-end/app/stylus/includes/_fontello-embedded.styl",
+		"/C/work/gap-portals/src/front-end/app/html/partials/auctionDetails.html",
+		"/C/work/gap-portals/src/front-end/app/html/index.html",
+		"/C/work/gap-portals/src/front-end/app/html/partials/singleLotSummary.html",
+		"/C/work/gap-portals/src/front-end/app/stylus/includes/_0_variables.styl",
+		"/C/work/gap-portals/src/front-end/app/scripts/directives/listingpage.js",
+		"/C/work/gap-portals/src/front-end/app/scripts/directives/pagination.js",
+		"/C/work/gap-portals/src/front-end/app/html/partials/pagination.html",
+		"/C/work/gap-portals/src/front-end/app/html/partials/lotActions.html",
+		"/C/work/gap-portals/src/front-end/app/html/partials/listingPage.html",
+		"/C/work/gap-portals/src/front-end/app/html/views/lotsearch.html",
+		"/C/work/gap-portals/src/front-end/app/stylus/includes/_typography.styl",
+		"/C/work/gap-portals/src/front-end/app/html/views/watchlist.html",
+		"/C/work/gap-portals/src/front-end/app/scripts/app.js",
+		"/C/work/gap-portals/src/front-end/app/scripts/directives/listingpage.js.orig",
+		"/C/work/gap-portals/src/front-end/app/html/views/auctioneer.html",
+		"/C/work/gap-portals/src/front-end/app/stylus/modules/auction.styl",
+		"/C/work/gap-portals/src/front-end/app/stylus/modules/pagination.styl",
+		"/C/Users/alexward/Desktop/listingpage.js",
+		"/C/work/gap-portals/src/front-end/app/scripts/directives/listingpage.js.resolve",
+		"/C/work/gap-portals/app/views/auctioneer.html",
+		"/C/work/gap-portals/app/partials/auctionPartial.html",
+		"/C/work/gap-portals/app/partials/auctionDetails.html",
+		"/C/work/gap-portals/src/front-end/app/scripts/controllers/auctions.js",
+		"/C/work/gap-portals/src/front-end/app/scripts/directives/lotlisting.js",
+		"/C/work/gap-portals/src/front-end/app/html/views/auction.html",
+		"/C/work/gap-portals/src/front-end/app/html/partials/lotlisting.html",
+		"/C/work/gap-portals/src/front-end/app/scripts/services/layout.js",
+		"/C/work/gap-portals/src/front-end/app/scripts/controllers/changeViewCtrl.js",
+		"/C/work/gap-portals/src/front-end/app/html/views/auctions.html",
+		"/C/Users/alexward/AppData/Local/Temp/Temp1_fontello-c8456488.zip/fontello-c8456488/css/fontello-embedded.css",
+		"/C/Users/alexward/Downloads/download",
+		"/C/work/gap-portals/src/front-end/app/html/partials/auctionType.html",
+		"/C/work/gap-portals/src/front-end/app/partials/watchlistToggle.html",
+		"/C/work/gap-portals/src/front-end/app/partials/auctionType.html",
+		"/C/dev/character-sheet/public/index.html",
+		"/C/Users/alexward/Dropbox/Writing/Fiction/The Evergreen Universe/Short Stories/The Black Friar/the-black-friar.mdown",
+		"/C/Users/alexward/Dropbox/Writing/Fiction/The Evergreen Universe/Short Stories/The Black Friar/the-black-friar.notes.mdown",
+		"/C/work/gap-portals/app/html/views/lot.html",
+		"/C/Users/alexward/Dropbox/Writing/Fiction/The Evergreen Universe/The long forgotten song.story",
+		"/C/Users/alexward/Dropbox/Blogs/Alex/[0] Draft/[df] [partial] app list.docx",
+		"/C/Users/alexward/Dropbox/Writing/Fiction/Notes/'tim wants tea' chain of events",
+		"/C/work/gap-portals/app/html/views/faqs.html",
+		"/C/work/gap-portals/app/stylus/modules/auction-signup.styl",
+		"/C/work/gap-portals/app/stylus/modules/terms-and-conditions.styl",
+		"/C/work/gap-portals/platformconfig.json",
+		"/C/work/gap-portals/app/scripts/services/config.js",
+		"/C/work/gap-portals/app/html/views/auctionSignup.html",
+		"/C/work/gap-portals/app/html/views/phone-verification.html",
+		"/C/dev/breakdown_of_system/raw.notes",
+		"/C/Users/alexward/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/alexward/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/work/gap-portals/app/scripts/filters/creditcard.js",
+		"/C/dev/--CSS Spider/func.js",
+		"/C/dev/--CSS Spider/index.html",
+		"/C/Users/alexward/Dropbox/Writing/Non-Fiction/Aretecratic System of Governance/raw.notes",
+		"/C/dev/breakdown_of_system/Part 2/[000] Introduction to part 2.md",
+		"/C/Users/alexward/Dropbox/test/index.html",
+		"/C/work/gap-portals/app/html/partials/lotActions.html.orig",
+		"/C/work/gap-portals/app/stylus/modules/lotDetails.styl",
+		"/C/work/gap-portals/app/stylus/modules/lotActions.styl",
+		"/C/work/gap-portals/app/html/partials/lotActions.html",
+		"/C/work/gap-portals/app/html/partials/auctionPartial.html",
+		"/C/work/gap-portals/Gruntfile.js",
+		"/C/dev/breakdown_of_system/answering_questions.md",
+		"/C/Users/alexward/AppData/Roaming/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+		"/C/Users/alexward/Dropbox/Blogs/[df] 5 Things no agency should be doing in 2015.docx",
+		"/C/Users/alexward/Dropbox/Blogs/Diary of a contractor - two years later.mdown",
+		"/C/Users/alexward/Dropbox/Blogs/The fully automated cross platform media centre - 2015 edition.mdown",
+		"/C/Users/alexward/Dropbox/Blogs/The case for the command line - or how I learned to stop worrying and love ZSH.mdown",
+		"/C/Users/alexward/Dropbox/Blogs/[lifehacker] Get more done by establishing a doing day.mdown",
+		"/C/Users/alexward/Dropbox/Blogs/Working from home - the right rools for the job.mdown",
+		"/C/dev/character-sheet/src/sass/strapforge.scss",
+		"/C/Users/alexward/Dropbox/col-comments.txt",
+		"/C/Users/alexward/Dropbox/Writing/Fiction/Short Stories/the black friar/the-black-friar.notes.mdown",
+		"/C/Users/alexward/Dropbox/Blogs/Working from home - Working out your work-life balance.mdown",
+		"/C/Users/alexward/Dropbox/Writing/Fiction/universe.notes.mdown",
+		"/C/work/gap/src/Gap.Core/Gap.Core.Portal/Gap.Core.Portal.BidSpotter/Views/SR/Shared/_Layout.cshtml",
+		"/C/work/gap/src/Gap.Core/Gap.Core.Portal/Gap.Core.Portal.BidSpotter/Views/SR/Auction/Index.cshtml",
+		"/C/work/gap/src/Gap.Core/Gap.Core.Portal/Gap.Core.Portal.BidSpotter/Views/SR/MyAccount/Index.cshtml",
+		"/C/work/gap/src/Gap.Core/Gap.Core.Portal/Gap.Core.Portal.BidSpotter/Views/SR/Client/Index.cshtml",
+		"/C/work/gap/src/Gap.Core/Gap.Core.Portal/Gap.Core.Portal.BidSpotter/Content/SR/css/auctions-and-lots.css",
+		"/C/Users/alexward/Dropbox/Blogs/Working from home - the Ultimate guide to creating a home office.mdown",
+		"/C/Users/alexward/Dropbox/Blogs/Emmet and Sublime Text.mdown",
+		"/C/work/gap/src/Gap.Core/Gap.Core.Portal/Gap.Core.Portal.BidSpotter/Content/SR/css/my-bidder.css",
+		"/C/Users/alexward/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 92.0,
+		"where_history":
+		[
+			"C:\\work\\gap-portals\\src\\front-end\\app\\stylus",
+			"C:\\work\\gap-portals",
+			"C:\\work\\gap-portals\\src\\front-end\\app\\stylus",
+			"<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"goto-lot",
+			".lot-details aside",
+			".primary-breadcrumb",
+			".primary-breadcrumb li:nth-last-of-type(2)",
+			".lot-links",
+			"watc",
+			".watching",
+			"40px",
+			"lot-links",
+			"class=\"auction-lots-listing",
+			"class=\"auction-dates data-item\"",
+			"$cookies",
+			"expandCategoryListFilter",
+			"closeNewsPopUp",
+			"pagination-bottom",
+			"listing-page",
+			"3",
+			"'\n",
+			"creditCard",
+			"svgmin",
+			"Auctioneers who do not use the-saleroom.com delivery service may offer their own shipping solution or provide details of delivery firms with whom they partner. Click on the delivery link on the right hand side of the auction catalogue page for more information. If you have questions about delivery, ask the auctioneer by using the Enquire about this lot button.",
+			"We may occasionally offer £10 off your first delivery in the form of a voucher",
+			".go-to-lot",
+			"class=\"panel go-to-lot\"",
+			"important-information",
+			"<a>",
+			"span",
+			"<a>",
+			"span",
+			"before",
+			"watchIcon ",
+			"watch",
+			";\n",
+			"sprite.png",
+			"sprite",
+			".spriteIcons\n{\n    background:url(/content/sr/images/sprite.png) 0 0 no-repeat;\n}",
+			"sprite.png",
+			"button",
+			"auctioneersLandingPage"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "tests/app/functions.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4966,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1149,
+								1149
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 240.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/functions.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 496,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								202,
+								202
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "js-assessment.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 302.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
